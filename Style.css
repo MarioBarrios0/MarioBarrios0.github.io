@@ -1,9 +1,10 @@
 body{
-    background-image:url(5b874b994f93f9aa254690d9097b8bee.jpg);
+    background-image:url(6fad9e56a728b06098b21acd51b5ec3f.jpg);
     background-size: cover;
 }
 .uno {width: 1075px;
-margin-left: 140px;}
+margin-left: 140px;
+border-radius: 10px;}
 
 .body {
     display: flex;
@@ -51,6 +52,7 @@ margin-left: 140px;}
     width: 250px;
     height: 40px;
     margin-left: 10px;
+    border-radius: 50px;
 }
 
 .botonteatro:hover {
